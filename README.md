@@ -25,7 +25,7 @@ Then generate your new project:
 yo github-profile
 ```
 
-### Example
+## Example
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=yyx990803&label=Profile%20views&color=0e75b6&style=flat" alt="yyx990803" /> </p>
 
