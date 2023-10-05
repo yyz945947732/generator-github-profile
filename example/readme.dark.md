@@ -1,9 +1,9 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=<%= githubName %>&label=Profile%20views&color=0e75b6&style=flat" alt="<%= githubName %>" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=yyx990803&label=Profile%20views&color=0e75b6&style=flat" alt="yyx990803" /> </p>
 
-<h1 align="center">Hi 👋, I'm <%= githubName %></h1>
-<h3 align="center">A developer</h3>
+<h1 align="center">Hi 👋, I'm Evan You</h1>
+<h3 align="center">Frontend developer. Author of Vue.</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=<%= githubName %>&theme=<%= trophyTheme %>" alt="<%= githubName %>" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yyx990803&theme=onedark" alt="yyx990803" /></a> </p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -27,9 +27,9 @@
 <p align="left"><a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a></p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=<%= githubName %>&show_icons=true&locale=en&layout=compact&theme=<%= theme %>" alt="<%= githubName %>" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yyx990803&show_icons=true&locale=en&layout=compact&theme=dark" alt="yyx990803" />
 </p>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=<%= githubName %>&show_icons=true&locale=en&theme=<%= theme %>" alt="<%= githubName %>" />
+<img src="https://github-readme-stats.vercel.app/api?username=yyx990803&show_icons=true&locale=en&theme=dark" alt="yyx990803" />
 </p>
