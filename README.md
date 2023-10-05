@@ -25,6 +25,12 @@ Then generate your new project:
 yo github-profile
 ```
 
+### Example
+
+[Light Theme](https://github.com/yyz945947732/generator-github-profile/blob/master/example/readme.light.md)
+
+[Dark Theme](https://github.com/yyz945947732/generator-github-profile/blob/master/example/readme.dark.md)
+
 ## LICENSE
 
 [MIT](https://github.com/yyz945947732/generator-github-profile/blob/master/LICENSE)
