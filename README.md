@@ -19,7 +19,7 @@ First, install [Yeoman](http://yeoman.io) and generator-github-profile using [np
 npm install -g yo generator-github-profile
 ```
 
-Then generate your new project:
+Then generate your github profile:
 
 ```bash
 yo github-profile
